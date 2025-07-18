@@ -25,4 +25,5 @@ A sleek and stylish **stopwatch web app** inspired by the **Star Wars universe**
 Clone the repo:
 
 ```bash
-
+https://github.com/Hitesh04codebot/Starwar-Aesthetic-Stopwatch.git
+cd star-wars-stopwatch
