@@ -11,7 +11,7 @@ A sleek and stylish **stopwatch web app** inspired by the **Star Wars universe**
 - Clean and responsive UI with **Star Wars-inspired background**
 - Simple Start, Stop, and Reset functionality
 - Millisecond-precision timer
-- Keyboard-like sci-fi font styling
+- Keyboard-like sci-fi font stylings
 - Fully built with **HTML, CSS, and JavaScript**
 
 ## 🎯 Tech Stack
